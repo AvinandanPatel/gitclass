@@ -1,3 +1,2 @@
 ## This is my Git Class ##
-## I am doing Modification ##
-## Interested in modification ##
+# This is the Sub branch of Avinandan. #
